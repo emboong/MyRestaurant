@@ -72,6 +72,7 @@ nav ul a:hover{
 }
 .items button :hover{
     transform: scale(1.04);
+    
 }
 @media screen and (max-width: 1000px) {
     .item{
